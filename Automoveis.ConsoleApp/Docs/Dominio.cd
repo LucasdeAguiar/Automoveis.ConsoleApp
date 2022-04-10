@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Automoveis.ConsoleApp.Compartilhado.EntidadeBase">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Compartilhado\EntidadeBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.Compartilhado.Notificador">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Compartilhado\Notificador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.Compartilhado.RepositorioBase">
+    <Position X="12.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgACBAAAAAAAEAAAAAQAEAAAAAAABAAAAAAAQAAA=</HashCode>
+      <FileName>Compartilhado\RepositorioBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.Compartilhado.Telabase">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQBA=</HashCode>
+      <FileName>Compartilhado\Telabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.Compartilhado.TelaMenuPrincipal">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABADQAA=</HashCode>
+      <FileName>Compartilhado\TelaMenuPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.ModuloCarro.Carro" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAgAAQAAAEEAAABAAAgAAAEIAAA=</HashCode>
+      <FileName>ModuloCarro\Carro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.ModuloCarro.RepositorioCarro" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModuloCarro\RepositorioCarro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.ModuloCarro.TelaCadastroCarro" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAQAAAAAAAAAACAACAAEAAAAABABCQAA=</HashCode>
+      <FileName>ModuloCarro\TelaCadastroCarro.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Automoveis.ConsoleApp.Program">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAABAACAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Automoveis.ConsoleApp.Interfaces.ICadastroBasico">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAAAABABAAAA=</HashCode>
+      <FileName>Interfaces\ICadastroBasico.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Automoveis.ConsoleApp.Interfaces.IRepositorio">
+    <Position X="14.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Interfaces\IRepositorio.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Automoveis.ConsoleApp.Compartilhado.TipoMensagem">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAACACAAAAAAAAAAAA=</HashCode>
+      <FileName>Compartilhado\TipoMensagem.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
